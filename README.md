@@ -1,24 +1,7 @@
 # vue3-demo
 
-## Project setup
-```
-npm install
-```
+## 此项目为vue3第一个项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+项目有点小，规模也不大，跟着B站上写的，用了大量elemnet-plus的组件，使用ts进行数据规范，感觉vue3和vue2区别还是很大的，有的地方用的不习惯，以及这个时候，B站上也没有什么好的项目实战，有点可惜，这个项目感觉完成的也不好。
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2022/07/28
